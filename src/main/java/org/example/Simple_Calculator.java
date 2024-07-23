@@ -24,6 +24,6 @@ public class Simple_Calculator {
                 return; // Exit the method
         }
 
-        System.out.println("Result: " + result); // Output: Result: 15
+        System.out.println("Result: " + result); // Output: Result: 50
     }
 }
